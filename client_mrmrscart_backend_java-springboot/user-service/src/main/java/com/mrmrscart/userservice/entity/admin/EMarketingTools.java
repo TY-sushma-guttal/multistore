@@ -1,0 +1,6 @@
+package com.mrmrscart.userservice.entity.admin;
+
+public enum EMarketingTools {
+	DISCOUNT_COUPON, TODAYS_DEAL, SPIN_WHEEL, SCRATCH_CARD, QUIZ, PRICE_TARGETED, NOTIFICATIONS, FLAGS, RANDOM, EQUAL,
+	INDIVIDUAL_PRICING, TOOL_CAMPAIGN
+}

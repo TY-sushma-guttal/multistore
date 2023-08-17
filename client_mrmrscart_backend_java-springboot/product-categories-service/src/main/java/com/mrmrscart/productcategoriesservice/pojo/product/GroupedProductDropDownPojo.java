@@ -1,0 +1,16 @@
+package com.mrmrscart.productcategoriesservice.pojo.product;
+
+import com.mrmrscart.productcategoriesservice.entity.category.EStatus;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class GroupedProductDropDownPojo {
+	private String subCategoryId;
+	private String supplierId;
+	private EStatus status;
+}

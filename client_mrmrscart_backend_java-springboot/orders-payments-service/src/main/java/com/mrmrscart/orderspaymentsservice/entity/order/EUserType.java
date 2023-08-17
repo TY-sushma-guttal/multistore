@@ -1,0 +1,6 @@
+package com.mrmrscart.orderspaymentsservice.entity.order;
+
+public enum EUserType {
+	CUSTOMER, RESELLER, SUPPLIER, ADMIN, ADMIN_USER, ADMIN_MANAGER, SUPER_ADMIN, RESELLER_STORE,
+	ADMIN_COMMISSIONED_STORE, ADMIN_NO_COMMISSIONED_STORE
+}

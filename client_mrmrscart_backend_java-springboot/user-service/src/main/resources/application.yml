@@ -1,0 +1,7 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-south-1.amazonaws.com
+  accessKey: AKIAXTJPM5HE4PEO7RCO
+  secretKey: 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
+  bucketName: dev-mrmrscart-assets
+#  bucketName: test-mrmrscart-assets
+  region: ap-south-1
